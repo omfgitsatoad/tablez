@@ -12,7 +12,7 @@ Useful for creating huge sample storage banks.
 
 ## Installation
 ```
-git clone https://github.com/omfgitsatoad/tablez
+git clone https://github.com/omfgitsatoad/tablez.git
 ```
 
 ```
